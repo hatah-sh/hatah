@@ -1,0 +1,6 @@
+body      {background-color: #000; color: #FFF; margin-left: 100px; font-family: "Lucida Console";}
+h1        {font-size: 19pt;}
+a         {color: #FFF; text-decoration: none; font-size: 13pt;}
+a:hover   {color: #FFF; text-decoration: underline;}
+p         {font-size: 13pt;}
+img       {width: 500px; max-width: 500px; margin-bottom: 20px;}
